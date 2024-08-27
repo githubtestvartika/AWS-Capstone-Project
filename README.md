@@ -1,3 +1,4 @@
+To Design and Implement 3-Tier Architecture and helping a team transition from On-Prem to have their footprints in Cloud Journey.
 In this task,we will design and deploy a highly available and scalable deployment of the WordPress application stack.
 We would use a CloudFormation template to deploy the networking resources required to support the application using task1 cloudformation Template. 
 Task 1: Scenario 
